@@ -9,4 +9,6 @@ int main(void) {
   } else {
     printf("Your number isn't divisible by 5 and 3!\n");
   }
+
+  return 0;
 }

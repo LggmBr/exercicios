@@ -1,6 +1,7 @@
-num[0] = int(input("First number: "))
-num[1] = int(input("Second number: "))
-num[2] = int(input("Third number: "))
+num = []
+num.append(int(input("First number: ")))
+num.append(int(input("Second number: ")))
+num.append(int(input("Third number: ")))
 
 num.sort()
 
